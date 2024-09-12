@@ -1,2 +1,2 @@
 # SSW345-Farfan
-SSW345 Homework Repo.
+09/12/2024: Added HW #1. Part II included in PDF file. Part III available at Issues in this repo.
